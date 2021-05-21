@@ -1,5 +1,7 @@
 # KanbanBoard
 
+### [Live Site](https://kanban-board-5520d.web.app/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
 ## Development server
