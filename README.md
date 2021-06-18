@@ -1,7 +1,5 @@
 # Kanban Board (Firebase)
 
-### [Live Site](https://kanban-board-5520d.web.app/)
-
 ## Description
 
 A Kanban Board built using Angular. Allows the user to add, delete, and edit the tasks on the board. The user can also easily move tasks between categories by dragging and dropping them. Lastly, the board is automatically saved into a Firestore database.
